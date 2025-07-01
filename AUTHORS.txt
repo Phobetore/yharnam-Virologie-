@@ -1,0 +1,4 @@
+## AUTHORS
+
+# Remplacez par vos informations (un ou deux auteurs max)
+Prenom Nom <email@example.com>
